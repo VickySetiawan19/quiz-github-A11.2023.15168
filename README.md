@@ -1,7 +1,5 @@
 # quiz-github-A11.2023.15168
 
-# quiz-github-A11.2023.15168
-
 ## Data Mahasiswa
 - **Nama**: Vicky Setiawan
 - **NIM**: A11.2023.15168
